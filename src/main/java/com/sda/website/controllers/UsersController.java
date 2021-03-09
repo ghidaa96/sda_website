@@ -17,7 +17,7 @@ public class UsersController {
     public String hello() {
         return "index.jsp";
     }
-
+    // hello 
     // @RequestMapping(value = "/registration", method = RequestMethod.POST)
     // public String registerUser(@ModelAttribute("user") User user, HttpSession session) {
     //     userService.registerUser(user);
